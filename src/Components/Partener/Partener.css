@@ -1,0 +1,28 @@
+.partener{
+    margin: 0 30px;
+    padding: 60px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.partener p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-bottom: 40px;
+    color: #FFFFFFCC     ;
+}
+.partener ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-height: 25px;
+    gap: 48px;
+}
+@media (max-width: 575px) {
+    .partener ul{
+        gap: 24px;
+    }
+}
