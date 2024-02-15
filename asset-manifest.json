@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Vaultflow/static/css/main.85a91c46.css",
+    "main.js": "/Vaultflow/static/js/main.16ff2feb.js",
+    "static/media/hero.png": "/Vaultflow/static/media/hero.e82cd2b7c355087952d1.png",
+    "static/media/features-bg.png": "/Vaultflow/static/media/features-bg.e64d4c5d3f1592180e94.png",
+    "static/media/card-img.png": "/Vaultflow/static/media/card-img.280fb186c40cc193e5e1.png",
+    "static/media/pacific.svg": "/Vaultflow/static/media/pacific.be2020c94752ae0c202a4f566e991253.svg",
+    "static/media/header.jpg": "/Vaultflow/static/media/header.9becac7aeaac63626d24.jpg",
+    "static/media/card-icon-2.png": "/Vaultflow/static/media/card-icon-2.33f39bfc0a2358754836.png",
+    "static/media/zendesk.svg": "/Vaultflow/static/media/zendesk.40c65d93bfbd7a78da25d86dfb5f9990.svg",
+    "static/media/lattice.svg": "/Vaultflow/static/media/lattice.4a9faaddbaa6c077522bcbeb3d5c0d2c.svg",
+    "static/media/rakuten.svg": "/Vaultflow/static/media/rakuten.663ffc37de102eeb3658632ff6fa4041.svg",
+    "static/media/ncr.svg": "/Vaultflow/static/media/ncr.6628b5b91b276327fdd5ac990be9e76f.svg",
+    "static/media/dell.svg": "/Vaultflow/static/media/dell.c2f3014b85df9169f69d2c7740d04ba3.svg",
+    "static/media/ted.svg": "/Vaultflow/static/media/ted.d968c6be8ee1eb2cf7860fb0a99cb860.svg",
+    "index.html": "/Vaultflow/index.html",
+    "main.85a91c46.css.map": "/Vaultflow/static/css/main.85a91c46.css.map",
+    "main.16ff2feb.js.map": "/Vaultflow/static/js/main.16ff2feb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a91c46.css",
+    "static/js/main.16ff2feb.js"
+  ]
+}
